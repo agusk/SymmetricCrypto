@@ -1,3 +1,3 @@
 ## SymmetricCrypto
 
-Sample of Symmetric Cryptographic in Java.
+Sample of Symmetric Cryptography in Java.
