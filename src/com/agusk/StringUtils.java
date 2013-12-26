@@ -1,12 +1,6 @@
 package com.agusk;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Agus
- * Date: 12/22/13
- * Time: 6:22 PM
- * To change this template use File | Settings | File Templates.
- */
+// source from http://www.rgagnon.com/javadetails/java-0596.html
 
 import java.io.UnsupportedEncodingException;
 
